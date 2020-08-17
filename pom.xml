@@ -11,7 +11,7 @@
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-        <findbugs.version>3.0.1</findbugs.version>
+        <findbugs.version>3.0.2</findbugs.version>
         <junit.version>4.12</junit.version>
     </properties>
 
